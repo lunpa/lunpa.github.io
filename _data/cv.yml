@@ -2,96 +2,304 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yingying Ma
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st November 2006
     - name: Languages
-      value: English, German
+      value: Chinese, English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: High School Student
+      institution: Beijing Haidian Kaiwen Academy, China
+      year: 2021-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - AP courses taken and scores in 2024<span>:</span> AP Biology (5), AP Calculus BC(5), AP Environmental Science(4), AP Macroeconomics(5), AP Physics 1(5), AP Physics 2(5), AP Physics C Mechanics(5), AP Statistics(5), AP Chemistry(5), AP Microeconomics(5).
+        - Currently taking<span>:</span> AP Art History--AP Computer Science A, AP English Language & Composition, AP Physics C - Electricity & Magnetism, AP United States History, AP German.
+        - ACT<span>:</span> 36/36
+        - title: Student on High Honor Roll.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Recognized for a 4.0+ GPA.
+            # - Sub-description 2.
+    - title: Pre-College Summer Program
+      institution: Harvard University, The USA
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - title: SSCI P-16000
+          contents:
+            - How Science Happens<span>:</span> Doing the Job of Science across Disciplines
+        - title: BIOS P-13503
+          contents:
+            - The Neurobiology of Motivation<span>:</span> An Introduction to Behavioral Neuroscience
+            # - Sub-description 2.
+    - title: Summer High School Chemistry Research Academy
+      institution: University of Pennsylvania, The USA
+      year: 2024
+      # description:
+        # - TODO Description 1.
+        # - TODO Description 2.
 
-- title: Experience
+- title: Research and Publications
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: The Relationship between Late Devonian Environmental Evolution and Organic Matter Enrichment
+      institution: 2024 International Conference on Environmental Science and Sustainable Development (ESSD 2024).
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Accepted by the 2024 International Conference on Environmental Science and Sustainable Development (ESSD 2024)
+        - Revealed the impact of climatic shifts and ocean chemistry on organic matter preservation.
+        - Contributed insights into ancient environmental conditions and their role in mass extinctions.
+
+    - title: Iron Oxide Nanofiber Catalysts for Organic Pollutant Degradation
+      institution: Shing-Tung Yau High School Science Award
+      year: 2024
+      description: 
+        - Synthesized iron oxide nanofibers using electrospinning and calcination techniques.
+        - Demonstrated a significant improvement in the degradation of organic pollutants such as methylene blue and rhodamine B.
+        - Contributed to the advancement of catalytic materials for environmental remediation, especially in wastewater treatment.
+
+    - title: Changes of Photosynthesis Efficiency during the Process of Modern Maize Breeding
+      institution: ISAEB 2024
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Accepted by 2024 International Symposium on Agricultural Engineering and Biology (ISAEB 2024).
+        - Addressed global food supply challenges by focusing on improving maize's photosynthetic efficiency, a crucial factor in crop yield.
+        - Demonstrated significant increases in efficiency metrics with age, guiding the development of high-efficiency photosynthetic maize varieties.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Geological Features of Geographical Biomes and Their Environmental Impact
+      institution: ICAPM 2024
+      year: 2024
       description:
+        - Accepted by 2024 International Conference on Innovations in Applied Mathematics, Physics and Astronomy.
+        - Investigated the impact of geological processes on biome structure and biodiversity, including tropical rainforests and deserts.
+        - Demonstrated the significance of bedrock types, soil formation, and hydrogeological features in ecosystem dynamics.
+        - Provided insights for the formulation of conservation strategies that account for geological and biological factors.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Advancing Disaster Management through Remote Sensing--Applications, Challenges, and Future Prospects # TODO :
+      institution: EnviroSummit--Discussing Environmental Sciences
+      year: 2024
+      description: 
+        - Accepted by EnviroSummit--Discussing Environmental Sciences.
+        - Employed handheld 3D laser scanners to collect detailed spatial data of cave systems, utilizing non-contact, automated, and accurate measurement techniques.
+        - Conducted point cloud preprocessing to enhance data quality, involving noise removal, multi-view alignment, data simplification, and surface reconstruction.
+        - Used multiple software tools for point cloud modeling, including Autodesk ReCap for initial processing, Cyclone 3DR for surface modeling, and 3ds Max for final model refinement and realistic visualization.
 
-- title: Open Source Projects
+    - title: Atmospheric Circulation on Other Planets--Venus, Mars, Jupiter
+      institution: Scheduled for TNS
+      year: 2024
+      description:
+        - Scheduled to be published in Theoretical and Natural Science (TNS) (Print ISSN 2753-8818) and submitted for indexing to CPCI, Crossref, CNKI, Google Scholar, and other databases. 
+        - Conducted a comparative analysis of atmospheric circulation on Venus, Mars, and Jupiter.
+        - Examined how unique planetary characteristics influence atmospheric dynamics.
+        - Highlighted the diverse behaviors, from Venus's super-rotating atmosphere to Jupiter's powerful storms.
+        - Provided insights into planetary climate systems, offering implications for the understanding of exoplanet atmospheres.
+
+
+- title: Extracurricular Activities and Projects 
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Independent Researcher/Learner 
+      institution: Institute of Geophysics, Chinese Academy of Sciences
+      year: Grade 10-12
+      description:
+        - Conducted research on organic matter enrichment during the Late Devonian period; analyzed geochemical proxies to uncover connections between environmental changes and mass extinction.
+    - title: Leader, Research Project Late Devonian Organic Matter Enrichment
+      # institution: Institute of Geophysics, Chinese Academy of Sciences
+      year: Grade 10-12
+      description:
+        - Directed a 3-D cave mapping project in China; utilized laser scanning and data processing to generate accurate models in challenging underground settings.
+    - title: Independent Researcher/Learner/Internship
+      institution: Chinese Academy of Agricultural Sciences, Hebei Agricultural Base
+      year: Grade 9-11
+      description:
+        - Performed on-site investigations into maize photosynthetic efficiency. The results demonstrated enhancements in key efficiency indices across breeding generations.
+    - title: Yellow House Captain, Beijing Haidian Kaiwen Academy Student Council
+      # institution: Chinese Academy of Agricultural Sciences, Hebei Agricultural Base
+      year: Grade 11-12
+      description:
+        - Organized events for 500+ participants; supervised a team of 20 for sports days and talent shows, fostering unity and spirit within the school community.
+    - title: International Genetically Engineered Machine (IGEM)
+      # institution: Chinese Academy of Agricultural Sciences, Hebei Agricultural Base
+      year: Grade 11-12
+      description:
+        - Developed a plasmid for E. coli to repair esophageal cells, potentially lowering the incidence of esophageal cancer; results were detailedly published on a project website.
+    - title: Creator & Developer, Chinese Herbal Medicine App
+      # institution: Chinese Academy of Agricultural Sciences, Hebei Agricultural Base
+      year: Grade 9-12
+      description:
+        - Developed and published Chinese herbal medicine app "ShenNongPu" on Apple App Store, promoting traditional remedies to improve modern health and wellness.
+        - Established purchasing options for common Chinese herbal medicines referenced by the Compendium of Materia Medica.
+        - Generate health-related advices for seasonal preventative measures based on traditional Chinese medicine texts such as <i>The Yellow Emperor's Classic of Internal Medicine</i>.
+    - title: Fencer, Local fencing club athlete, KWA Fencing Team Founder
+      # institution: Chinese Academy of Agricultural Sciences, Hebei Agricultural Base
+      year: Grade 9-12
+      description:
+        - Trained professionally, achieved national and citywide gold medals, and founded school fencing team.
+    - title: Piano, Double Bass Player, KWA Orchestra, KWA Bunbun Band, Jazz band
+      year: Grade 9-12
+      description:
+        - Played piano for 14 years, double bass for 6 years, achieved ABRSM Grade 8 in Performance and Grade 5 in Theory, participating in school concerts, and performed in citywide concert events.
+    - title: Project leader, Upenn Chemistry Academy
+      year: Grade 11
+      description:
+        - Developed a non-Newtonian toilet liquid to enhance restroom hygiene and comfort by minimizing splash back; discovered eco-friendly solutions.
+    - title: Self-initiated Non-profit Websites
+      year: Grade TODO
+      description:
+        - Launched websites on bullet recycling and earthquake safety, reaching 10,000 views, laying the foundation for future NPO initiatives in university.
+    - title: School Badminton Team Player
+      year: Grade 9-11
+      description:
+        - Competed on behalf of the school.
+        - Achieved 5th place in Mixed Doubles at the 2023 Zong Yu Cup Beijing International Schools Competition.
+    - title: School Basketball Team Player
+      year: Grade 9-11
+      description:
+        - Competed on behalf of the school for inter-school basketball games.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - title: S.-T. Yau High School Science Award<span>:</span> Chemistry
+      year: Grade 12
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Semi-Finalists in Northern Competition Area
 
-- title: Academic Interests
+    - title: John Locke Institute 2024 Global Essay Prize
+      year: Grade 11
+      items:
+        - Very High Commendation for Philosophy Category
+        - Shortlisted, only 16.9% of candidates selected
+
+    - title: BioOlympiad Initiative USA-China 2024 (USABO)
+      year: Grade 11
+      items:
+        - National Silver
+
+    - title: AAPT Physics Bowl Contest
+      year: Grade 11
+      items:
+        - National Gold and Regional Top 10
+        - Scored 31/xxx
+
+    - title: Euclid Contest
+      year: Grade 11
+      items:
+        - Ranked in the top twenty-five percent of contestants
+        - Certificate of Distinction, Score<span>:</span> 79/100
+
+    - title: British Astronomy and Astrophysics Olympiad (BAAO Senior) 2023-2024
+      year: Grade 11
+      items:
+        - Global Silver Award, Score<span>:</span> 37/xxx
+
+    - title: UK Chemistry Olympiad (UKChO)
+      year: Grade 11
+      items:
+        - Global Gold Award, Score<span>:</span> 60/80
+
+    - title: HOSA-Future Health Professionals
+      year: Grade 10
+      items:
+        - Global Silver Award
+
+    - title: Canadian Chemistry Contest (CCC)
+      year: Grade 11
+      items:
+        - National Gold Award
+        - Global Special Merit Award, Score<span>:</span> 22/25
+
+    - title: Canadian Chemistry Olympiad
+      year: 2023
+      items:
+        - Global Bronze Award
+        - National Silver Award, Top 20%
+
+    - title: Global Future Space Scholars Meet (GFSSM)
+      year: Grade 9 summer
+      items:
+        - Global Silver Award
+
+    - title: China Thinks Big
+      year: Grade 9
+      items:
+        - Global Brown Award
+
+    - title: Canadian Chemistry Olympiad
+      year: Grade 9
+      items:
+        - Global Bronze Award, Top 35%
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: SKILLS AND HOBBIES
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+- title: Hobbies
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Taekwondo
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Over 10 years of training; currently holding a Black Belt; awarded a bronze medal in the Women's 55kg category at the Beijing Sports Assembly in 2023, and secured third place at the "Baxi Cup" Beijing Youth Taekwondo Grand Prix in 2023.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Swimming
+      items:
+        - Over 12 years of experience with weekly anaerobic training; achieved the second place in 100m Butterfly and third in 50m Freestyle at the 2024 Beijing Youth Swimming Challenge.
+
+    - title: Golf
+      items:
+        - Engaged in weekly practice for 3 years, with a focus on establishing it as a lifelong commitment to the sport.
+
+    - title: Fencing
+      items:
+        - Underwent professional training for 6 years; secured national and citywide gold medals.
+
+    - title: Piano
+      items:
+        - Regularly played piano for 14 years, achieved ABRSM Grade 8 in Performance, Grade 5 in Theory; performed in school concerts and citywide events.
+
+    - title: Double Bass
+      items:
+        - Played double bass for 6 years. Work in School orchestra, bunbun band, and sometimes play in bar for jazz.
+
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
