@@ -5,7 +5,6 @@ description:  In S.T.Yau Chemistry competition, Research on Boosting Organic Pol
 img: assets/img/p2.png
 importance: 2
 category: study
-giscus_comments: true
 ---
 
 
