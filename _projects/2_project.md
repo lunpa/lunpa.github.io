@@ -53,13 +53,13 @@ category: work
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-    <iframe width="560" height="315" src="/assets/img/project2/video_8.mp4" frameborder="0" allowfullscreen></iframe> 
+    <iframe width="900" height="506.250" src="/assets/img/project2/video_8.mp4" frameborder="0" allowfullscreen></iframe> 
    </div> 
 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-    <iframe width="560" height="315" src="/assets/img/project2/video_9.mp4" frameborder="0" allowfullscreen></iframe> 
+    <iframe width="900" height="506.250" src="/assets/img/project2/video_9.mp4" frameborder="0" allowfullscreen></iframe> 
    </div> 
 
 </div>
