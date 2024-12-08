@@ -5,7 +5,6 @@ description: In S.T.Yau Chemistry competition, Research on Boosting Organic Poll
 img: assets/img/p2.png
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 
@@ -54,14 +53,14 @@ giscus_comments: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project2/outpage_8.png" title="8" class="img-fluid rounded z-depth-1" %}
-    </div> 
+    <iframe width="560" height="315" src="/assets/img/project2/video_8.mp4" frameborder="0" allowfullscreen></iframe> 
+   </div> 
 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project2/outpage_9.png" title="9" class="img-fluid rounded z-depth-1" %}
-    </div> 
+    <iframe width="560" height="315" src="/assets/img/project2/video_9.mp4" frameborder="0" allowfullscreen></iframe> 
+   </div> 
 
 </div>
 
