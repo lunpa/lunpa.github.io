@@ -104,9 +104,5 @@ related_publications: true
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project2/outpage_26.png" title="26" class="img-fluid rounded z-depth-1" %}
-    </div>
-    
+    </div>   
 </div>
-```
-
-{% endraw %}
