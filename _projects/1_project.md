@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Containing tablets research
+description: In IGEM competition, development of containing tablets, prevent esophageal cancer.
 img: assets/img/p1.png
 importance: 1
 category: work
