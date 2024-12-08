@@ -4,8 +4,7 @@ title: Containing tablets research
 description: In IGEM competition, development of containing tablets, prevent esophageal cancer.
 img: assets/img/p1.png
 importance: 1
-category: work
-related_publications: true
+category: study2
 ---
 
 <div class="row">
