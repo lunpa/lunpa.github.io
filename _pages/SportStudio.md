@@ -9,7 +9,7 @@ redirect_from:
   - /SportStudio.html
 ---
 <div>
-  <iframe width="560" height="315" src="https://youtu.be/5kKguBBqObo" frameborder="0" allowfullscreen></iframe>
+ <p><iframe width="560" height="315" src="https://www.youtube.com/embed/5kKguBBqObo" title="" frameBorder="0"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowFullScreen></iframe></p>
   <div>
     <p> With 14 years of piano experience and six years on the double bass, achieving ABRSM Grade 8 in Performance and Grade 5 in Music Theory, I have developed a profound background in music. My creative expression shines in my work with the Bunbun Band, where I compose and improvise double bass parts for unique pop and rock arrangements, significantly enhancing my musicality and creativity. Currently, I also collaborate with a local orchestra and perform with jazz musicians at a bar, further expanding my versatility as a performer. My approach to creativity focuses on transforming familiar tunes into unexpected interpretations, breathing new life into them.</p>
 </div>
